@@ -6,10 +6,10 @@ Voici des remplacement pour votre serveur FiveM Français, il reprend la texture
 
 -- Liste des liens --
 
-"ImpulseeLeak_Barriere" : 
-"ImpulseeLeak_Drapeau"  :
-"ImpulseeLeak_Panneau"  :
-"ImpulseeLeak_Route"    :
+"ImpulseeLeak_Barriere" : https://www.mediafire.com/folder/camglodk82ab0/ImpulseeLeak_Barriere
+"ImpulseeLeak_Drapeau"  : https://www.mediafire.com/folder/d7pgrb251hxyz/ImpulseeLeak_Drapeau
+"ImpulseeLeak_Panneau"  : https://www.mediafire.com/folder/3exfyzayce6vv/ImpulseeLeak_Panneau
+"ImpulseeLeak_Route"    : https://www.mediafire.com/folder/w24butqp818tv/ImpulseeLeak_Route
 
 -- Procédure d'installation --
 
