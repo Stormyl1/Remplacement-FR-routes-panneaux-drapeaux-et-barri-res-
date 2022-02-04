@@ -19,7 +19,7 @@ Voici des remplacement pour votre serveur FiveM Français, il reprend la texture
 
 -- Aide/Support --
 
-Si vous avez besoin d'une aide concernant cette ressource (difficulté d'installation ou autre), vous pouvez vois rendre sur le Discord "ImpulseeLeak", lien ci-dessous !
+Si vous avez besoin d'une aide concernant cette ressource (difficulté d'installation ou autre), vous pouvez vois rendre sur le Discord "ImpulseeLeak", lien ci-contre !
 Discord: https://discord.gg/MsEYvKNjKd
 
 -- Mot de fin --
